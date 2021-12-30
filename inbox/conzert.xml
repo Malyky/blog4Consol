@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conzert>
+    <id>1</id>
+    <city>Muenchen,DE</city>
+    <artist>Elton John</artist>
+    <stadion>
+        <name>AlianzArena</name>
+        <seatCount>63000</seatCount>
+        <covered>false</covered>
+    </stadion>
+</conzert>

@@ -1,0 +1,11 @@
+{
+  "id" : 1,
+  "city" : "Muenchen,DE",
+  "artist" : "Elton John",
+  "stadion" : {
+    "name" : "AlianzArena",
+    "seatCount" : 63000,
+    "covered" : false
+  },
+  "validated" : true
+}
