@@ -6,7 +6,7 @@ import org.apache.camel.Processor;
 import org.springframework.stereotype.Component;
 
 @Component
-public class KonzertValidator implements Processor {
+public class ConzertValidator implements Processor {
 
 
     @Override
@@ -15,6 +15,7 @@ public class KonzertValidator implements Processor {
 
         // do more complex validations here
         conzert.setValidated(true);
+
 
     }
 }
